@@ -835,8 +835,15 @@ section {
     }
 }
  
-.reveal, .title-line, .hero-title, .hero-subtitle {
+.reveal, .hero-title, .hero-subtitle {
     opacity: 1 !important;
     visibility: visible !important;
     transform: none !important;
+}
+
+.title-line{
+   opacity: 1 !important;
+    visibility: visible !important;
+    transform: none !important;
+   margin-top: 4vmin;
 }
