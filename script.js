@@ -192,7 +192,7 @@ function initParallax() {
 
 function initParallaxHeranca() {
     const img = document.querySelector('.img-heranca');
-    const container = document.querySelector('.image-placeholder');
+    const container = document.querySelector('.image-placeholder-history');
 
     if (img && container) {
         // Criamos a animação
