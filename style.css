@@ -490,7 +490,7 @@ section {
 /* A Imagem específica da Herança */
 .img-heranca {
     position: absolute;
-    top: 0;
+    top: -150px;
     left: 0;
     width: 100% !important;
     height: 140% !important; /* Mais altura = mais espaço para o efeito aparecer */
